@@ -1,0 +1,2 @@
+rootProject.name='praktikummobilegis2'
+include ':app'
